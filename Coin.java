@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+//import java.util.ArrayList;
 public class Coin {
         private double myValue;
         private String myName;
